@@ -1,0 +1,10 @@
+.nasa-logo {
+  width: 30%;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.nasa-logo__image {
+  width: 300px;
+}
